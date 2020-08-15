@@ -1,0 +1,2 @@
+rootProject.name='KudaGoFeed_A'
+include ':app'
