@@ -1,10 +1,10 @@
-package com.kovrizhkin.kudagofeed_a.presentation.view.screens.feed
+package com.kovrizhkin.kudagofeed_a.presentation.view.screens
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.kovrizhkin.kudagofeed_a.R
 
-class FeedActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

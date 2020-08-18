@@ -10,8 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".presentation.view.screens.details.EventDetailsActivity"></activity>
-        <activity android:name=".presentation.view.screens.feed.FeedActivity">
+        <activity android:name=".presentation.view.screens.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
